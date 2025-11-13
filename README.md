@@ -4,7 +4,7 @@ An agentic model which is used to improve InstructBLIPs text reading capabilitie
 
 ## Diagram of the proposed model
 
-![DocBlip Flowchart](./flowchart.png)
+![DocBlip Flowchart](./Flowchart.png)
 
 ## Detailed instructions to run the code
 
