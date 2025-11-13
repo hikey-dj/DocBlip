@@ -34,5 +34,3 @@ To run the application, execute the main Python script:
 python v1.py
 ```
 This will start a Gradio server. You can access the interface by navigating to the local URL provided in the terminal.
-
-*(Note: As per the instructions, submitting a .ipynb file is preferred. You can create a Jupyter Notebook that walks through the steps of the `iterative_doc_agent` function for a more detailed explanation of the process.)*
